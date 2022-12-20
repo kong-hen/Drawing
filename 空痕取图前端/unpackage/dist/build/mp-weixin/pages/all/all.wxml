@@ -1,0 +1,1 @@
+<button data-event-opts="{{[['tap',[['tabber',['$event']]]]]}}" bindtap="__e">点击</button>
